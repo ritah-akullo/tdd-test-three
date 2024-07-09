@@ -1,6 +1,4 @@
-#Vanessa Nassanga
-#Akullu Winnifred
-#Atim Winnie
+#Akullo Ritah
 def fibonacci(n):
     if n == 0:
         return 0
